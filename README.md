@@ -2,3 +2,6 @@
 Primer repositorio creado en la clase 4 del CDE de textos cientificos con LaTeX
 
 ## [Aula Virtual de CTIC](https://ctic-virtual.uni.edu.pe/)
+![](https://www.uni.edu.pe/images/demo/logouni.png "UNI")
+
+
